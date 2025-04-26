@@ -1,4 +1,4 @@
-# Programming Language UPC FIB
+# Programming Languages UPC FIB
 ---
 ## Q2 2024-2025
 ---
